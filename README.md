@@ -1,5 +1,7 @@
 ## SQLite Lab
 
+[![CI](https://github.com/minlingz/sqlite-lab_minlingz/actions/workflows/cicd.yml/badge.svg)](https://github.com/minlingz/sqlite-lab_minlingz/actions/workflows/cicd.yml)
+
 Python Script interacting with SQL Database
 
 ### Diagram
